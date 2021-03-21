@@ -1,0 +1,2 @@
+LIBRARY Bitmap_Blur_ASSEMBLER
+EXPORTS Main
