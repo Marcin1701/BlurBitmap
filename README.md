@@ -16,3 +16,10 @@
 * You can click "Rozpocznij" button to start processing.
 * Your original file will not be changed.
 * Program will calculate the time.
+
+# Effect:
+## Before:
+![3MB_Bitmap — kopia](https://user-images.githubusercontent.com/43828389/111906713-4389fc80-8a52-11eb-9cf1-b0ad5800de5f.jpg)
+
+## After:
+![out](https://user-images.githubusercontent.com/43828389/111906714-471d8380-8a52-11eb-8c17-f38ea27c0756.jpg)
